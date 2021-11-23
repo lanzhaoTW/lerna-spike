@@ -29,5 +29,6 @@
   "dependencies": {
     "@lan/package1": "^1.0.1-alpha.0",
     "@lan/package2": "^1.0.1-alpha.0"
-  }
+  },
+  "gitHead": "9538a0348be4a4ac26337e974d5b83a69f928f0f"
 }
