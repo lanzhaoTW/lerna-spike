@@ -1,0 +1,16 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "src/packages/@sbux-ui/*",
+    "src/packages/@sbux-business/*",
+    "src/packages/@sbux-util/*"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/lan-host/",
+    "access": "public"
+  }
+}
