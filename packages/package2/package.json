@@ -1,6 +1,6 @@
 {
   "name": "@lan/package2",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "lanzhao <lanzhao@thoughtworks.com>",
   "homepage": "https://github.com/lanzhaoTW/lerna-spike#readme",
