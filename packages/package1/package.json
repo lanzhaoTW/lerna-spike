@@ -1,6 +1,6 @@
 {
   "name": "@lan/package1",
-  "version": "1.0.2-alpha.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "lanzhao <lanzhao@thoughtworks.com>",
   "homepage": "https://github.com/lanzhaoTW/lerna-spike#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/lanzhaoTW/lerna-spike/issues"
   },
-  "gitHead": "726b7da6bc731fc4eed142c150129c3bc42f92d6"
+  "gitHead": "e2fc857ba2709aeca436e24f0c2443b8abb517a3"
 }
