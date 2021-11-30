@@ -1,6 +1,6 @@
 {
   "name": "@lan/package3",
-  "version": "1.0.4-alpha.0",
+  "version": "1.0.4-alpha.1",
   "description": "> TODO: description",
   "author": "lanzhao <lanzhao@thoughtworks.com>",
   "homepage": "https://github.com/lanzhaoTW/lerna-spike#readme",
@@ -27,8 +27,8 @@
     "url": "https://github.com/lanzhaoTW/lerna-spike/issues"
   },
   "dependencies": {
-    "@lan/package1": "^1.0.2-alpha.0",
-    "@lan/package2": "^1.0.3-alpha.0"
+    "@lan/package1": "^1.0.2-alpha.1",
+    "@lan/package2": "^1.0.3-alpha.1"
   },
   "gitHead": "726b7da6bc731fc4eed142c150129c3bc42f92d6"
 }
